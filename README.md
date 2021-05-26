@@ -1,6 +1,6 @@
 # Documentación 
 ## Abstract: 
-La siguiente escena fue realizada en Unity con la utilización shader graph incluyendo una animación de vértices llamado vertex shading para simular el efecto y movimiento natural del agua, así mismo también se utiliza este efecto para simula el viento por medio de vegetación incluida en escena, con la utilización de un modelo de luz custom tipo Toon.
+La siguiente escena fue realizada en Unity con la utilización shader graph incluyendo una animación de vértices llamado vertex shading para simular el efecto y movimiento natural del agua, así mismo también se utiliza este efecto para simula el viento por medio de vegetación incluida en escena, con la utilización de un modelo de luz custom tipo Surface Diffuse Strenght.
 
 ## Introducción: 
 Unity es un motor de desarrollo para la creación de videojuegos que ofrece multitud de funcionalidades para desarrolladores, que también se ha utilizado en realidad virtual, en proyectos de Arquitectura y Diseño y además en la edición y previsualización de miniseries. Permite crear escenas 2D y 3D y animaciones en tiempo real y con un renderizado de gráficos e imágenes que logra una gran calidad y una importante sensación de realidad, siendo esta última funcionalidad la razón por la que la escena realizada se ha hecho aquí.  
