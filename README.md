@@ -97,6 +97,6 @@ El resultado final fue una escena en la que se pone en practica el efecto del mo
 
 -	Lindman, A. (2019, July 31). Custom Lighting in Shader Graph: Expanding your graphs in 2019. Unity Blog. https://blog.unity.com/technology/custom-lighting-in-shader-graph-expanding-your-graphs-in-2019
 
-## Link de vide del Proyecto:
+## Link de video del Proyecto:
 https://drive.google.com/file/d/1R6sjp4o-6TR3CIca2jNdCfnZnGig61Sr/view
 
